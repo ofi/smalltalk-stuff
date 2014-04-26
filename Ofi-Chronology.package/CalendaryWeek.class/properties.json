@@ -1,0 +1,14 @@
+{
+	"category" : "Ofi-Chronology",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CalendaryWeek",
+	"pools" : [
+		 ],
+	"super" : "Week",
+	"type" : "normal" }

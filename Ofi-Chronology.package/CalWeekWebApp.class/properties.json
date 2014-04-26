@@ -1,0 +1,14 @@
+{
+	"category" : "Ofi-Chronology",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "CalWeekWebApp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
