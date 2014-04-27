@@ -1,6 +1,6 @@
 lessons
 images
-	^Lesson title: 'Das Image ist alles' 
+	^Lesson title: 'Das Image ist das System' 
 	lesson: 
 '"
 Eine Smalltalk-Umgebung besteht aus einer VM und einem Image.

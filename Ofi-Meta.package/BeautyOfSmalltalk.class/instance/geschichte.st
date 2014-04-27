@@ -18,9 +18,8 @@ Wieso blieb der kommerzielle Erfolg aus?
 - Smalltalk war teuer bis 1996 (freies Release von Squeak), und unterschiedliche Hersteller hatten inkompatible Klassenbibliotheken (oft lizenzrechtlich bedingt).
 - Java ist kostenlos, monarchistisch genormt und bot Allianzen gegen die Windows-Dominanz, nicht zuletzt wegen ''billigerer'' Programmierer mit C-Migrationshintergrund.
 
-Wer benutzt Smalltalk heute?
-- Softwaretechnische Forschungseinrichtungen, z. B. inria.fr.
-- Organisationen, in denen die Zeit von der Anforderung bis zur Realisierung Geld wert ist, z. B. Börsen und Banken.
-- Menschen, die lieber für eine Lösung als für einen Compiler arbeiten, z. B. ich. ;-)
+Welche technischen Gründe sprechen heute gegen einen Smalltalk-Einsatz?
+- Smalltalk kennt keine ""Code Security"", d. h. jeder mit Zugriff auf das System (Image) kann durch fehlerhafte oder absichtliche Änderung einer Top-Level-Klasse die Anwendung sabotieren.
+- Das Fehlen von Namensräumen, weshalb Kollisionen von Klassenbezeichnern nur durch Konvention verhindert werden können. VisualWorks hat deshalb seit Jahren die Syntax um Namensräume erweitert.
 "
 	ProfStef next.'
