@@ -1,0 +1,1 @@
+CW := CalendaryWeek starting: (Date year: 1961 month: 7 day: 2).CW index asString.CW dayOfMonth. "Achtung! Das ist das Startdatum der Woche!"CW asMonth dayOfWeek .

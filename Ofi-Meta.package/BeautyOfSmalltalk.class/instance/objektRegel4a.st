@@ -11,7 +11,7 @@ Nicht alles lässt sich durch Versenden von Nachrichten erreichen. Manchmal muss
 
 - Rückgaben lösen nur den Transport eines Ergebnisses zurück an einen Sender aus.
 
-- Primitive Methoden sind innerhalb der virtuellen Maschine implementiert.
+- Primitive Methoden sind innerhalb der virtuellen Maschine implementiert. Ihr Aufruf erfolgt durch ein ''Pragma'', z. B. <primitive: ''primDigitDivNegative'' module:''LargeIntegers''>
 "
 
 	ProfStef next.'

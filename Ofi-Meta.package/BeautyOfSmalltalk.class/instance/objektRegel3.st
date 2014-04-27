@@ -16,4 +16,6 @@ Eine neue Klasse entsteht i. A. durch das Senden einer Nachricht an eine bestehe
 	poolDictionaries: ''''
 	category: ''Ofi-Test''. 
 
+	TestKlasse browse.
+	
 	ProfStef next.'

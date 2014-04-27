@@ -16,5 +16,7 @@ tutorial
 #images
 #entwicklung
 #geschichte
+#gegenargumente
+#heute
 #ausblick
 )

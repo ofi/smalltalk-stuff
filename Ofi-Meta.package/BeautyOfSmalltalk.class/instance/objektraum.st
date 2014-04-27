@@ -7,7 +7,7 @@ Es gibt prinzipiell drei Formen von Variablen, die von außerhalb einer Objektin
 
 	1.	Globale Objekte sind so wie sie heißen und damit von überall zugreifbar (sofern nicht verschattet).
 
-	2.	Klassenvariablen sthen im Zugriff aller Instanzen einer Klasse.
+	2.	Klassenvariablen stehen im Zugriff aller Instanzen einer Klasse.
 
 	3.	Nur der Vollständigkeit halber: PoolDictionaries werden inzwischen tunlichst vermieden.
 		(Sie binden systemweit verfügbare Dictionaries für die Klasse in den globalen Namensraum.)

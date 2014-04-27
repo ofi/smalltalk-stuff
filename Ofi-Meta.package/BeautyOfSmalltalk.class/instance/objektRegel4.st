@@ -3,7 +3,7 @@ objektRegel4
 	^Lesson title: 'Regel 4: Verhalten passiert durch das Senden von Nachrichten' 
 	lesson: 
 '"
-Diese Regel ist signifikant:
+Senden von Nachrichten statt Aufrufen von Funktionen
 
 In prozeduralen Programmiersprachen bestimmt der Aufrufer, welche Funktion/Methode ausgeführt wird durch ihren literalen und statischen Namen.
 

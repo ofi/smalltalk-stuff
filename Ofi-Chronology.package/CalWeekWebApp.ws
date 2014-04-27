@@ -1,0 +1,1 @@
+ZnServer startDefaultOn: 8080.ZnServer default logToTranscript.ZnServer default debugMode: true; inspect.ZnClient new get: 'http://localhost:8080/random'.ZnServer default delegate map: #cw to: CalWeekWebApp new.ZnServer default stop.
