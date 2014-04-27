@@ -2,6 +2,13 @@
 ## Abstract
 This repository contains several files, packages and monticello archives stored using Dale Henrichs [FileTree](https://github.com/dalehenrich/filetree) under pharo 3.0 beta, i. e. loading may work in your image or not.
 
+##Packages
+###Ofi-Chronology
+Implementation of a CalendaryWeek class including unit tests and a small sample web server application.
+
+###Ofi-Meta
+A talk about Smalltalk in Smalltalk as a ProfStef tutorial instance in German only.
+
 ##Links
 Below you find a collection of (more or less) top level links to Smalltalk resources on the net.
 
@@ -40,4 +47,4 @@ Below you find a collection of (more or less) top level links to Smalltalk resou
 * The article [Why Is Smalltalk Dead?](http://c2.com/cgi/wiki?WhyIsSmalltalkDead) is an interesting conversation about the reasons why Smalltalk may or might not be dead by now. Some of the participants in the discussion have been round for many years in the Smalltalk software business. 
 
 ##In Memoriam
-While compiling this respository I came to know of the sudden passing of James A. Robertson about ten days ago (at the time of writing). He had been a Smalltalk evangelist and a product manager at Cincom for many years. Although I never have had the chance to meet him personally, his articles, talks and screencasts have accompanied my personal Smalltalk life for more than ten years (maybe 20 in fact). The Smalltalk community and myself will miss you Jim, because nobody can fill this gap.
+While compiling this respository I have come to know the sudden passing of James A. Robertson about ten days ago (at the time of writing). Inter alia he had been a Smalltalk evangelist and a product manager at Cincom. Although I never have had the chance to meet him personally, his articles, talks and screencasts have accompanied my personal Smalltalk life for more than ten years (maybe 20 in fact). The Smalltalk community and myself will miss you Jim, because nobody can fill this gap.
