@@ -5,7 +5,7 @@ This repository contains several files and packages which I compiled in preparat
 ##Packages
 These are monticello archives stored using Dale Henrich's [FileTree](https://github.com/dalehenrich/filetree) packages under pharo 3.0 beta, i. e. loading may work in your image or not, but chances are it does by following these steps:
 
-- Clone repository to our path, referenced as "yourPath" below.
+- Clone repository to your path, referenced as "yourPath" below.
 - Open Monticello Browser from "World" Menu.
 - Click on "+Repository" Button in the toolbar.
 - Select "filetree://" from the list.
