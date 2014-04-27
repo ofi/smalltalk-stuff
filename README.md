@@ -24,7 +24,7 @@ Below you find a collection of (more or less) top level links to Smalltalk resou
 * [Pharo Screencasts](http://www.pharocasts.com/)
 * [The Pharo CollaborActive Book](http://book.pharo-project.org/)
 * [Book "Pharo by Example"](http://pharobyexample.org/)
-* [Deep Inot Pharo](http://rmod.lille.inria.fr/pbe2/) (aka PBE2)
+* [Deep Into Pharo](http://rmod.lille.inria.fr/pbe2/) (aka "PBE2")
 * [Collection of Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) by Stéphane Ducasse
 
 ###Repositories
