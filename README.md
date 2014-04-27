@@ -1,13 +1,28 @@
 # ofi's Collected Smalltalk Stuff
 ## Abstract
-This repository contains several files, packages and monticello archives stored using Dale Henrichs [FileTree](https://github.com/dalehenrich/filetree) under pharo 3.0 beta, i. e. loading may work in your image or not.
+This repository contains several files and packages which I compiled in preparation of a talk about the Smalltalk programming language.
 
 ##Packages
+These are monticello archives stored using Dale Henrich's [FileTree](https://github.com/dalehenrich/filetree) packages under pharo 3.0 beta, i. e. loading may work in your image or not, but chances are it does by following these steps:
+
+- Clone repository to our path, referenced as "yourPath" below.
+- Open Monticello Browser from "World" Menu.
+- Click on "+Repository" Button in the toolbar.
+- Select "filetree://" from the list.
+- Navigate to "yourPath" in the "Choose Directory" dialog, click "OK".
+- Select the new repository entry in the right pane of the Monticello Brwoser and click "Open" in the browser's toolbar.
+- You should see a list of the packages mentioned below.
+- After clicking on a package on either pane, pressing "Load" will load the latest Monticello version from that package.
+- If you would like to load an earlier version directly from the filetree package, don't ask me, because I have not figured out how to do that until now. ;-}
+
 ###Ofi-Chronology
-Implementation of a CalendaryWeek class including unit tests and a small sample web server application.
+Implementation of a CalendaryWeek class including unit tests and a small sample web server application. In the filetree's package directory there are two workspace files to help you in using the classes from the package:
+
+* CalendaryWeek.ws with some example calls to an instnce of that class.
+* CalWeekWebApp.ws to start a ZnServer on port 8080 and set up a route to the URL http://localhost:8080/cw for calling the mini app.
 
 ###Ofi-Meta
-A talk about Smalltalk in Smalltalk as a ProfStef tutorial instance in German only.
+A talk about Smalltalk in Smalltalk as a ProfStef tutorial instance in German language. See the comment of class BeautyOfSmalltalk for starting the presentation.
 
 ##Links
 Below you find a collection of (more or less) top level links to Smalltalk resources on the net.
