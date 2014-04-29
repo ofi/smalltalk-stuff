@@ -7,7 +7,7 @@ Die 5 Regeln für Smalltalk-Objekte
 
 	1. Alles(!) ist ein Objekt.
 
-	2. Jedes Objekt ist eine Instanz genau einer Klasse
+	2. Jedes Objekt ist eine Instanz genau einer Klasse.
 
 	3. Jede Klasse erbt von genau einer Oberklasse.
 

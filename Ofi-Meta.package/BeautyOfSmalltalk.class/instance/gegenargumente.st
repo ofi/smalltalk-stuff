@@ -9,7 +9,7 @@ Wieso blieb der kommerzielle Erfolg aus?
 
 - Smalltalk war teuer bis 1996 (freies Release von Squeak), und unterschiedliche Hersteller hatten inkompatible Klassenbibliotheken (oft lizenzrechtlich bedingt).
 
-- Java ist kostenlos, monarchistisch genormt und bot Allianzen gegen die Windows-Dominanz, nicht zuletzt wegen ''billigerer'' Programmierer mit C-Migrationshintergrund.
+- Java ist kostenlos, monarchistisch genormt und bot Allianzen gegen die Microsoft-Dominanz, nicht zuletzt wegen ''billigerer'' Programmierer mit C-Migrationshintergrund.
 
 
 Welche technischen Gründe sprechen heute gegen einen Smalltalk-Einsatz?

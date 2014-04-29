@@ -13,7 +13,7 @@ Wir wenden keine Methoden auf ein Objekt an, sondern bitten es um Reaktion auf e
 
 Folglich können wir dieselbe Nachricht an unterschiedliche Objekte senden, die jeweils ihre eigene ''Methode'' haben, auf die Nachricht zu reagieren.
 
-Ein Beispiel:
+Zwei Beispiele:
 "
 	3 + 7. "Meint: Sende Nachricht ''+'' an das Objekt ''3'' mit Argument ''7''"
 	(Color red + Color blue) printHtmlString. "Meint: Sende Nachricht ''+'' an die Instanz ''red'' der Klasse ''Color'' mit der Instanz ''blue'' der Klasse ''Color'' als Argument, und an das Ergebnisobjekt sende die Nachricht ''printHtmlString''."
